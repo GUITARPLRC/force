@@ -1,0 +1,21 @@
+body {
+	background-color:#ecf0f1;
+	font-family:sans-serif;
+	margin:0 auto;
+	padding:0;
+	text-align:center;
+}
+h1 {
+	font-size:36px;
+	margin:0 0 0 -10%;
+}
+#chart {
+	margin:-4% auto 0 auto;
+}
+.flag {
+	position: absolute;
+}
+
+.flagbox {
+	position: absolute;
+}
